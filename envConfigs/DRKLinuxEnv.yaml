@@ -1,0 +1,50 @@
+name: DRKLinuxEnv
+channels:
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2018.1.18=py35_0
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- ncurses=6.0=h9df7e31_2
+- openssl=1.0.2n=hb7f436b_0
+- pip=9.0.1=py35_5
+- python=3.5.4=hc3d631a_27
+- readline=7.0=ha6073c6_4
+- setuptools=38.5.1=py35_0
+- sqlite=3.22.0=h1bed415_0
+- tk=8.6.7=hc745277_3
+- wheel=0.30.0=py35hd3883cf_1
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - absl-py==0.1.11
+  - astor==0.6.2
+  - backports.weakref==1.0rc1
+  - bleach==1.5.0
+  - enum34==1.1.6
+  - gast==0.2.0
+  - grpcio==1.10.0
+  - html5lib==0.9999999
+  - intel-openmp==2018.0.0
+  - keras==2.1.5
+  - keras-extensions==1.3
+  - markdown==2.6.11
+  - mkl==2018.0.0
+  - mysql-connector==2.1.6
+  - numpy==1.14.2
+  - protobuf==3.5.2
+  - pyyaml==3.12
+  - scikit-learn==0.19.0
+  - scipy==1.0.0
+  - six==1.11.0
+  - tensorboard==1.6.0
+  - tensorflow==1.5.0
+  - tensorflow-tensorboard==1.5.1
+  - termcolor==1.1.0
+  - theano==1.0.1
+  - werkzeug==0.14.1
+prefix: /home/marco_cruz/anaconda3/envs/DRKLinuxEnv
+

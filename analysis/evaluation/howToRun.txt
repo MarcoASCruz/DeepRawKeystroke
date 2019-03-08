@@ -1,0 +1,11 @@
+if you are in this work directory
+just get your output from database using the columns:
+
+description, user, output, target
+
+
+the in R command line, type:
+source("evaluation.R")
+
+
+
