@@ -1,4 +1,4 @@
-#DeepRawKeystroke (DRK)
+# DeepRawKeystroke (DRK)
 
 This documentation explains how to use the DeepRawKeystroke (DRK), a deep neural network able to recognize users based on keystroke dynamics raw data. You will be able to see details about DRK [in this paper](). 
 
