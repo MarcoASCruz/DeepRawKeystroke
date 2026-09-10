@@ -25,6 +25,19 @@ After create the databases, you can do experiments to evaluate the DRK performan
 
 If you have some CPU cores available and want to speed up the experiments, use parallel processes. You can do this running for example the “analyseRawDataParallelProcesses.py” in “/experiments/killourhyAndMaxion”.
 
+## citation
+If you use this repository in your work, including parts of the pipelines, models, or implementation, or if the ideas presented here inspire your work, please cite the paper and this GitHub repository.
+
+@inproceedings{da2019deep,
+  title={Deep neural networks applied to user recognition based on keystroke dynamics: learning from raw data},
+  author={da Silva Cruz, Marco Aur{\'e}lio and Goldschmidt, Ronaldo Ribeiro},
+  booktitle={Proceedings of the XV Brazilian Symposium on Information Systems},
+  pages={1--8},
+  year={2019}
+}
+
+Thank you for acknowledging the original work and helping others discover the research and its implementation.
+
 ## Contact
 
 If you want contact me, please send a message to marco.aurelio.s.cruz@gmail.com
